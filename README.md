@@ -2,7 +2,7 @@
 
 Web data scrapping y posterior data análisis de las posiciones abiertas en el portal de empleos de Santander
 
-Fecha de elaboración 10/03/2021
+Fecha de elaboración 10/03/2022
 
 * [nbviewer | Scrapper jupyter notebook](https://nbviewer.org/github/yagopajarino/ds-santanderJobOffers/blob/main/scrapper.ipynb)
 * [nbviewer | Análisis jupyter notebook](https://nbviewer.org/github/yagopajarino/ds-santanderJobOffers/blob/main/analisis.ipynb)
